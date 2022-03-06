@@ -36,7 +36,7 @@ local webhookcheck =
  
  
 local url =
-   "https://discord.com/api/webhooks/947720585549582397/jhbdZNBuHq5puE35HIIAnVsPodum4pTjI98uEs5Xictp4_XCuWPERttdnHxFeSxEL9DT"
+   "https://discord.com/api/webhooks/949955269436260382/CodrOjVpzxap9GbqsjHb0DLE33ttnl2TGZiPrPN4e_MZN4D9TYNQ2Jn7BmdHWGvzZ_8B"
 local data = {
    ["content"] = " ***BANNED LOGS***",
    ["embeds"] = {
